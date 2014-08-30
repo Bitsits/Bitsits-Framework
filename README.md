@@ -8,7 +8,7 @@ You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3
 
 Credits
 ---
-- Game Design, Code and Graphics: [Shubhajit Saha]
+- Game Design, Code and Graphics: [Shubhajit Saha].
 
 - Physics: [Erin Catto’s Box2D physics engine](http://www.box2d.org/) under the [MIT License].
 
