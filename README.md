@@ -50,4 +50,4 @@ This work by [BitSits Games] is licensed under a [Creative Commons Attribution-N
 
 [BitSits Games]:http://bitsitsgames.com/
 [Shubhajit Saha]:http://suvozit.com/
-[Maya Agarwal]:http://maya8802.tumblr.com/
+[Maya Agarwal]:http://maya-agarwal.tumblr.com/
