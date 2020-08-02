@@ -5,7 +5,6 @@ Troubleshooting
 ---
 You should install [.NET Framework 3.5 SP1] and [XNA Framework Redistributable 3.1].
 
-
 Credits
 ---
 - Game Design, Code and Graphics: [Shubhajit Saha].
@@ -14,11 +13,9 @@ Credits
 
 - Code Samples: [Creator Club’s GameState Management sample] and [XNA Stater Kit: Platformer] both under [Microsoft Permissive License.rtf].
 
-
 License
 ---
 This work by [Bitsits Games] is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License].
-
 
 [.NET Framework 4.0]: http://www.microsoft.com/en-in/download/details.aspx?id=17718
 [XNA Framework Redistributable 4.0]: http://www.microsoft.com/en-in/download/details.aspx?id=20914
